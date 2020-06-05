@@ -1,6 +1,6 @@
 backcall==0.1.0
 decorator==4.4.0
-Django==2.2
+Django==2.2.13
 django-cors-headers==2.5.2
 ipython==7.4.0
 ipython-genutils==0.2.0
